@@ -16,6 +16,7 @@
 		E8C6E19429DDA0A700AD3AEB /* Background_Modes_SesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8C6E19329DDA0A700AD3AEB /* Background_Modes_SesTests.swift */; };
 		E8C6E19E29DDA0A700AD3AEB /* Background_Modes_SesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8C6E19D29DDA0A700AD3AEB /* Background_Modes_SesUITests.swift */; };
 		E8C6E1A029DDA0A700AD3AEB /* Background_Modes_SesUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8C6E19F29DDA0A700AD3AEB /* Background_Modes_SesUITestsLaunchTests.swift */; };
+		E8C6E1AF29DDA61200AD3AEB /* music.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E8C6E1AE29DDA61200AD3AEB /* music.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		E8C6E19929DDA0A700AD3AEB /* Background Modes SesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Background Modes SesUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E8C6E19D29DDA0A700AD3AEB /* Background_Modes_SesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Background_Modes_SesUITests.swift; sourceTree = "<group>"; };
 		E8C6E19F29DDA0A700AD3AEB /* Background_Modes_SesUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Background_Modes_SesUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		E8C6E1AE29DDA61200AD3AEB /* music.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = music.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				E8C6E18229DDA0A600AD3AEB /* Main.storyboard */,
 				E8C6E18529DDA0A700AD3AEB /* Assets.xcassets */,
 				E8C6E18729DDA0A700AD3AEB /* LaunchScreen.storyboard */,
+				E8C6E1AE29DDA61200AD3AEB /* music.mp3 */,
 				E8C6E18A29DDA0A700AD3AEB /* Info.plist */,
 			);
 			path = "Background Modes Ses";
@@ -231,6 +234,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E8C6E1AF29DDA61200AD3AEB /* music.mp3 in Resources */,
 				E8C6E18929DDA0A700AD3AEB /* LaunchScreen.storyboard in Resources */,
 				E8C6E18629DDA0A700AD3AEB /* Assets.xcassets in Resources */,
 				E8C6E18429DDA0A600AD3AEB /* Main.storyboard in Resources */,
